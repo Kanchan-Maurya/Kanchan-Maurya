@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Javascript**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Kanchan-Maurya?tab=repositories](https://github.com/Kanchan-Maurya?tab=repositories)
+
 - 💬 Ask me about **C**
 
 - 📫 How to reach me **kanchan23@navgurukul.org**
